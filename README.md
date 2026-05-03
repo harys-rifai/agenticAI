@@ -1,5 +1,7 @@
 # 🚀 Agentic-Flow v2
 
+> **Last Updated: May 2026**
+
 > **Production-ready AI agent orchestration with 66 self-learning agents, 213 MCP tools, and autonomous multi-agent swarms.**
 
 [![npm version](https://badge.fury.io/js/agentic-flow.svg)](https://www.npmjs.com/package/agentic-flow)
@@ -1964,16 +1966,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - **AgentDB Team** - Advanced vector database
 - **Open Source Community** - Invaluable contributions
 
----
-
-## 📞 Support
-
-- **GitHub Issues**: https://github.com/ruvnet/agentic-flow/issues
-- **Documentation**: https://github.com/ruvnet/agentic-flow#readme
-- **Email**: contact@ruv.io
-
----
-
 ## 🗺️ Roadmap
 
 ### v2.0.1-alpha (Next Release)
@@ -2003,9 +1995,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ruvnet/agentic-flow&type=Date)](https://star-history.com/#ruvnet/agentic-flow&Date)
-
----
 
 ## 🚀 Let's Build the Future of AI Agents Together!
 
@@ -2016,11 +2005,3 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ```bash
 npm install agentic-flow@alpha
 ```
-
-**Made with ❤️ by [@ruvnet](https://github.com/ruvnet)**
-
----
-
-**Grade: A+ (Perfect Integration)**
-**Status: Production Ready**
-**Last Updated: 2025-12-03**
